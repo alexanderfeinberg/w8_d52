@@ -168,7 +168,7 @@
     }
   },
   "13": {
-    "endpoint": "Get a specific song's details based on songId",
+    "endpoint": "Get all songs of a specified trackNumber",
     "request": {
       "method": "",
       "URL": "",
@@ -182,7 +182,7 @@
     }
   },
   "14": {
-    "endpoint": "Add a song to a specific album based on albumId",
+    "endpoint": "Get a specific song's details based on songId",
     "request": {
       "method": "",
       "URL": "",
@@ -196,7 +196,7 @@
     }
   },
   "15": {
-    "endpoint": "Edit a specified song by songId",
+    "endpoint": "Add a song to a specific album based on albumId",
     "request": {
       "method": "",
       "URL": "",
@@ -210,6 +210,20 @@
     }
   },
   "16": {
+    "endpoint": "Edit a specified song by songId",
+    "request": {
+      "method": "",
+      "URL": "",
+      "headers": null,
+      "body": null
+    },
+    "response": {
+      "headers": null,
+      "statusCode": null,
+      "body": null
+    }
+  },
+  "17": {
     "endpoint": "Delete a specified song by songId",
     "request": {
       "method": "",
